@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @siphesihle1807
 - 👀 I’m interested in coding and singing...not forgetting eating.
 - 🌱 I’m currently learning coding. It's my newly found love.
-- Aspiring Data scientist.
-- 💞️ I’m looking to collaborate on small projects that can help me grow my skills as a programmer.
+- 💞️ - Aspiring Data scientist.
 - 📫 How to reach me: sshezi106@gmail.com
 
 <!---
