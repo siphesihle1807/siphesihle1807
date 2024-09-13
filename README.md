@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @siphesihle1807
 - 👀 I’m interested in coding, singing and not forgetting eating.
 - 🌱 Diving into coding, my newly found love. 
-- 💞️ Aspiring Data scientist.
+- 💞️ Full stack developer.
 - 📫 How to reach me: sshezi106@gmail.com
 
 <!---
